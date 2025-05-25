@@ -181,4 +181,5 @@ Snowflake for robust data management.
 
 Contributors:
 Yash Gupta
+
 Prasad Jore
