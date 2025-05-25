@@ -41,3 +41,16 @@ The application utilizes data that can be sourced from:
 All primary datasets for the application are intended to be stored and managed within **Snowflake** tables (e.g., `CRAFTS`, `PAINTING`, `DANCE`, `HERITAGE`, `UNESCO_INDIA_SITES`, `TOURISM_TRENDS`, etc.) within a database (e.g., `CULTURE_HERITAGE`) and schema (e.g., `PUBLIC`).
 
 ## 📁 Project Structure
+cultural-canvas-india/
+├── .streamlit/
+│   └── secrets.toml        # Snowflake credentials and other secrets
+├── home.py                 # Main landing page of the Streamlit app
+├── pages/
+│   ├── 1_🎨_Art_Forms_Explorer.py
+│   ├── 2_🗺️_Cultural_Hotspots_Map.py
+│   ├── 4_🏛️_UNESCO_Sites_Map.py  # (Or your actual filename for UNESCO sites)
+│   └── (Other page files like Responsible_Tourism_Guide.py)
+├── assets/                   # (Optional: For local images, css if not inlined)
+│   └── ...
+├── README.md               # This file
+└── requirements.txt        # Python dependencies
