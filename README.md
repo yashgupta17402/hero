@@ -20,7 +20,6 @@ To design, develop, and produce a solution on Streamlit that showcases tradition
 * **Homepage:** An engaging overview with a dynamic slideshow, featured art forms, top cultural states, and upcoming festivals.
 * **🎨 Art Forms Explorer:** Discover India's diverse traditional art forms (paintings, dances, crafts, textiles). Filter by state or art type, search, and view detailed information including origin, descriptions, and (where available) government support and artisan cooperatives. Data is sourced from Snowflake tables: `CRAFTS`, `PAINTING`, `DANCE`, and other curated lists.
 * **🗺️ Cultural Hotspots Map:** An interactive map showcasing various cultural sites, monuments, and historical locations across India. Users can explore site details, including descriptions and (planned) tourism statistics.
-* **🏞️ Untouched India Discovery:** Identifies and analyzes regions rich in cultural heritage but less frequented by tourists. Explores reasons for lower footfall and highlights opportunities for responsible, community-focused tourism.
 * **🏛️ UNESCO World Heritage Sites Map:** An interactive map dedicated to exploring India's UNESCO World Heritage Sites with detailed information and links. Data sourced from a Snowflake table (`UNESCO_INDIA_SITES`).
 * **Responsible Tourism Guide (Planned):** Information and guidelines on how to travel responsibly and support local communities and heritage preservation.
 
