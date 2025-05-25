@@ -180,6 +180,7 @@ Built using the wonderful Streamlit framework and Python libraries like Pandas, 
 Snowflake for robust data management.
 
 Contributors:
+
 Yash Gupta
 
 Prasad Jore
