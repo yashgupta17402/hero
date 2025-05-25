@@ -1,5 +1,35 @@
 # Cultural Canvas of India - YourStory Snowflake HERO Challenge Submission
 
+Pictures displaying streamlit and snowflake application:
+![image](https://github.com/user-attachments/assets/ba4630c8-fca1-4491-b491-53fbd27a0d80)
+
+![image](https://github.com/user-attachments/assets/39c060ad-96de-4800-af40-35c2f04a3276)
+
+![image](https://github.com/user-attachments/assets/dcb8b4db-3d95-41cf-a085-b23b4ee6f4e1)
+
+
+![image](https://github.com/user-attachments/assets/f33a3a70-9aef-4881-b48e-efd9ccd32738)
+
+![image](https://github.com/user-attachments/assets/28b2e480-658e-41de-a0c5-9bd09c54f7ec)
+
+![image](https://github.com/user-attachments/assets/0e7daa35-eac8-4705-a371-6af214c4202e)
+
+
+![image](https://github.com/user-attachments/assets/295bfa0d-67ef-456d-9885-958dab488812)
+
+![image](https://github.com/user-attachments/assets/98f7f889-ed1f-4745-a187-6659b19297a5)
+
+![image](https://github.com/user-attachments/assets/b1adc1c6-afbc-4a14-9250-615abddc6fb0)
+
+![image](https://github.com/user-attachments/assets/6b6fdc02-673a-42c5-8607-c6daf6e347bb)
+
+![image](https://github.com/user-attachments/assets/866e9de2-2371-4a4c-abe3-691b26b5e538)
+
+![image](https://github.com/user-attachments/assets/7127f212-4204-4248-890a-b0268dd14e99)
+
+
+
+
 **Live Streamlit App:** [https://srxbbgdabl9mnaqsu7unsc.streamlit.app/](https://srxbbgdabl9mnaqsu7unsc.streamlit.app/)
 
 **GitHub Repository:** [https://github.com/yashgupta17402/hero/tree/main](https://github.com/yashgupta17402/hero/tree/main)
