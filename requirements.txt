@@ -3,3 +3,4 @@ pandas>=1.3.0
 plotly>=5.0.0
 folium>=0.12.0
 streamlit-folium>=0.8.0 
+snowflake-connector-python
