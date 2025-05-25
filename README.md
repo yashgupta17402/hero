@@ -138,6 +138,8 @@ Features an automated slideshow highlighting key aspects of Indian culture and t
 Displays statistics on top cultural states (data from Snowflake).
 Showcases a randomly selected GI-tagged art form (data from Snowflake).
 Lists an upcoming major cultural festival (data from Snowflake).
+
+
 pages/1_🎨_Art_Forms_Explorer.py:
 
 Allows users to browse and explore a wide variety of Indian art forms (Paintings, Dances, Crafts, Textiles).
@@ -145,11 +147,15 @@ Data is primarily sourced from Snowflake tables (CRAFTS, PAINTING, DANCE) and su
 Features filters for State and Art Type, and a search bar.
 Displays art forms in a card grid with images and short descriptions.
 Provides a detailed view for each art form with comprehensive information, including its origin, description, GI tag status (if applicable), supporting government schemes, artisan cooperatives, and a map showing its region of origin.
+
+
 pages/2_🗺️_Cultural_Hotspots_Map.py:
 
 Presents an interactive Folium map marked with various cultural hotspots across India.
 (Planned/In Progress) Users can click on markers to get more details about each site, including descriptions, images, and tourism statistics (domestic/foreign visitors, seasonality trends). Data to be sourced from Snowflake.
 Includes layer controls to filter sites (e.g., UNESCO sites, ASI protected sites, high/low tourist traffic).
+
+
 pages/4_🏛️_UNESCO_Sites_Map.py :
 
 Dedicated page to explore India's UNESCO World Heritage Sites.
@@ -157,6 +163,8 @@ Data loaded from the UNESCO_INDIA_SITES table in Snowflake.
 Interactive map with custom markers for each site.
 Pop-ups provide names, locations, short descriptions, and links to official pages.
 Search functionality to find specific UNESCO sites.
+
+
 💡 Future Enhancements
 User accounts and personalized recommendations.
 Integration of real-time data where possible.
@@ -164,6 +172,8 @@ Community features for sharing experiences and tips.
 More detailed data on local artisans and how to support them.
 Expanded "Responsible Tourism Guide" with actionable advice.
 Multi-language support.
+
+
 🙏 Acknowledgements
 Data sourced from data.gov.in, Ministry of Tourism, Ministry of Culture, UNESCO, and various public cultural archives.
 Built using the wonderful Streamlit framework and Python libraries like Pandas, Folium, and Plotly.
