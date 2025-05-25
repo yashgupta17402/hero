@@ -315,7 +315,7 @@ import time
 import google.generativeai as genai
 
 # !!! IMPORTANT: REPLACE THIS WITH YOUR ACTUAL GEMINI API KEY !!!
-GEMINI_API_KEY = "AIzaSyBaTotk06zc3bGLACQ68l9sijkBjnTPp7w" # User provided this key as an example of their setup
+GEMINI_API_KEY = " " # User provided this key as an example of their setup
 
 gemini_model = None
 
