@@ -126,6 +126,8 @@ Navigate to the root directory of the project in your terminal and run:
 
 ```bash
 streamlit run home.py
+```
+
 
 
 Key Pages & Functionality
