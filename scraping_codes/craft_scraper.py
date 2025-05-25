@@ -5,7 +5,7 @@ import time # To handle potential rate limits
 # --- Configuration ---
 # 1. Configure your API key
 #    (Store it securely, e.g., as an environment variable, not hardcoded)
-GOOGLE_API_KEY = "AIzaSyBaTotk06zc3bGLACQ68l9sijkBjnTPp7w" # Replace with your actual API key
+GOOGLE_API_KEY = "use you api" # Replace with your actual API key
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # 2. Initialize the Gemini Model
