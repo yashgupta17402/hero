@@ -1,5 +1,83 @@
 # Cultural Canvas of India - YourStory Snowflake HERO Challenge Submission
 
+## New Version
+### Home page
+
+![image](https://github.com/user-attachments/assets/2928b981-df67-40f3-a3e8-e0cb8d036054)
+
+![image](https://github.com/user-attachments/assets/cc178717-91ee-432b-9075-1f012647a188)
+
+![image](https://github.com/user-attachments/assets/e7a0c025-cd96-4cee-90b2-78b436964dd6)
+
+![image](https://github.com/user-attachments/assets/e8b097ef-6483-4055-bede-9afdd1596f85)
+
+![image](https://github.com/user-attachments/assets/7a31a787-546a-4db2-87fd-6c91d753e4a5)
+
+![image](https://github.com/user-attachments/assets/2cfc6163-d9b3-41c8-870f-d1db24d9aae4)
+
+### Art Explorer(showing india's diverse art forms and crafts)
+
+![image](https://github.com/user-attachments/assets/36b9f992-06af-4a59-a3f7-e79bd4e95d69)
+
+![image](https://github.com/user-attachments/assets/012303f1-31ee-4bc2-ba98-57a8603a4c61)
+
+![image](https://github.com/user-attachments/assets/bd73f4f7-3b91-493b-8c0b-0b546248d4b1)
+
+![image](https://github.com/user-attachments/assets/241f5b8e-6d98-482d-a185-312805c2d7ef)
+
+### Cultural Hotspots Map 
+
+![image](https://github.com/user-attachments/assets/519ce966-9929-47fe-a281-58b1b1ec87a7)
+
+![image](https://github.com/user-attachments/assets/3febdf62-7e5a-4f66-b07d-afe21a4663c8)
+
+![image](https://github.com/user-attachments/assets/9a7c3853-f004-412c-a308-2944e874c957)
+
+![image](https://github.com/user-attachments/assets/5c97a94a-261b-421d-9741-d72f8decd442)
+
+### Discover Indian Festivals
+
+![image](https://github.com/user-attachments/assets/5f2a779f-1608-4f2d-83fe-badd88a37474)
+
+![image](https://github.com/user-attachments/assets/4dbbaf1d-6bf8-4a82-b9b7-156deeb74a45)
+
+### Responsible Tourism Guide
+
+![image](https://github.com/user-attachments/assets/d7fcbd9d-07a1-4b64-961d-d6abe0fd5c17)
+
+![image](https://github.com/user-attachments/assets/5f8ed865-0225-4f6e-b6c0-48a9567278e8)
+
+![image](https://github.com/user-attachments/assets/12d07afe-db4a-4a0f-ba71-c3511a3a0846)
+
+![image](https://github.com/user-attachments/assets/979c82d3-7e89-4a52-8f07-c2d062e2d0ad)
+
+![image](https://github.com/user-attachments/assets/b14b20a6-0070-403a-a1dd-d6eb49821c55)
+
+###  Government Impact Dashboard
+
+![image](https://github.com/user-attachments/assets/473d66fd-1b5a-431c-9763-f8d85ddef9f1)
+
+![image](https://github.com/user-attachments/assets/6aed0679-af77-4c9e-8063-92b4f3c90cb0)
+
+![image](https://github.com/user-attachments/assets/06c4440b-54fb-4270-9781-67a0e069ec03)
+
+![image](https://github.com/user-attachments/assets/8bd87da8-46ca-4ddb-9f63-4d2261108e85)
+
+
+![image](https://github.com/user-attachments/assets/520b26d6-5e8c-42ec-989b-dbe2f04bde93)
+
+
+
+
+
+
+
+
+
+
+
+
+### Old version
 Pictures displaying streamlit and snowflake application:
 ![image](https://github.com/user-attachments/assets/ba4630c8-fca1-4491-b491-53fbd27a0d80)
 
